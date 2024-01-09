@@ -1,4 +1,4 @@
-package de.telran.algorithms;
+package de.telran.algorithms.lesson1;
 
 import java.util.Arrays;
 

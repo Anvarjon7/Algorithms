@@ -1,4 +1,4 @@
-package de.telran.algorithms;
+package de.telran.algorithms.lesson1;
 
 public class Task3 {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package de.telran.algorithms;
+package de.telran.algorithms.lesson1;
 
-public class Practice {
+public class Task2 {
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 5, 4, 1, 1, 1, 2, 0, -5, 6};
         System.out.println("Max element");

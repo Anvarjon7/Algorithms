@@ -1,6 +1,6 @@
-package de.telran.algorithms;
+package de.telran.algorithms.lesson1;
 
-public class LessonCode {
+public class Task1 {
     public static void main(String[] args) {
 
         int[] num = {1, 2, 3, 4, 5};
