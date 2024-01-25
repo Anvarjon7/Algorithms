@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9db12071-bd9b-469d-96e6-8c92b5217ef5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/de/telran/algorithms/lesson5/LessonPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/de/telran/algorithms/lesson6/LessonPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/target/classes/de/telran/algorithms/lesson4/LessonPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/java/target/classes/de/telran/algorithms/lesson4/LessonPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/target/classes/de/telran/algorithms/lesson5/LessonPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/java/target/classes/de/telran/algorithms/lesson5/LessonPractice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
     "Application.de.telran.algorithms.lesson2.Task1.executor": "Run",
     "Application.de.telran.algorithms.lesson4.Task1.executor": "Run",
     "Application.de.telran.algorithms.lesson5.LessonPractice.executor": "Run",
+    "Application.de.telran.algorithms.lesson6.LessonPractice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -82,7 +83,7 @@
       <recent name="C:\Users\Win-10\IdeaProjects\Algorithms\algorithm\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.de.telran.algorithms.lesson5.LessonPractice">
+  <component name="RunManager" selected="Application.de.telran.algorithms.lesson6.LessonPractice">
     <configuration name="LessonPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.algorithms.lesson4.LessonPractice" />
       <module name="java" />
@@ -102,19 +103,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="de.telran.algorithms.lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.algorithms.lesson1.Task4" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.telran.algorithms.lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,13 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="de.telran.algorithms.lesson6.LessonPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.algorithms.lesson6.LessonPractice" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.algorithms.lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.de.telran.algorithms.lesson6.LessonPractice" />
         <item itemvalue="Application.de.telran.algorithms.lesson5.LessonPractice" />
         <item itemvalue="Application.LessonPractice" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.de.telran.algorithms.lesson2.Task1" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
