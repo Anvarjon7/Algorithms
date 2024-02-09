@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9db12071-bd9b-469d-96e6-8c92b5217ef5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/de/telran/algorithms/lesson7/LessonPracticeTasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/de/telran/algorithms/lesson8/SimpleQuickSortArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +53,7 @@
     "Application.LessonPractice.executor": "Run",
     "Application.LessonPracticeTasks.executor": "Run",
     "Application.Recursion.executor": "Debug",
+    "Application.SimpleQuickSortArray.executor": "Run",
     "Application.de.telran.algorithms.lesson2.Task1.executor": "Run",
     "Application.de.telran.algorithms.lesson4.Task1.executor": "Run",
     "Application.de.telran.algorithms.lesson5.LessonPractice.executor": "Run",
@@ -84,7 +84,7 @@
       <recent name="C:\Users\Win-10\IdeaProjects\Algorithms\algorithm\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LessonPracticeTasks">
+  <component name="RunManager" selected="Application.SimpleQuickSortArray">
     <configuration name="LessonPracticeTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.algorithms.lesson7.LessonPracticeTasks" />
       <module name="java" />
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.algorithms.lesson3.Recursion" />
+    <configuration name="SimpleQuickSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.algorithms.lesson8.SimpleQuickSortArray" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telran.algorithms.lesson3.*" />
+          <option name="PATTERN" value="de.telran.algorithms.lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleQuickSortArray" />
         <item itemvalue="Application.LessonPracticeTasks" />
         <item itemvalue="Application.de.telran.algorithms.lesson6.LessonPractice" />
         <item itemvalue="Application.de.telran.algorithms.lesson5.LessonPractice" />
         <item itemvalue="Application.de.telran.algorithms.lesson2.Task1" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
