@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9db12071-bd9b-469d-96e6-8c92b5217ef5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/de/telran/algorithms/lesson11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/de/telran/algorithms/lesson11/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/de/telran/algorithms/lesson12/GreedyAlgorithms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.LessonPractice.executor": "Run",
+    "Application.GreedyAlgorithms.executor": "Run",
+    "Application.LessonPractice.executor": "Debug",
     "Application.LessonPracticeTasks.executor": "Run",
     "Application.LinkedWagon.executor": "Run",
     "Application.Main.executor": "Run",
@@ -74,11 +74,17 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Win-10/IdeaProjects/Algorithms",
+    "last_opened_file_path": "C:/Users/Win-10/IdeaProjects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -95,13 +101,13 @@
       <recent name="C:\Users\Win-10\IdeaProjects\Algorithms\algorithm\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.de.telran.algorithms.lesson11.Main">
-    <configuration name="LinkedWagon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.algorithms.lesson10.LinkedWagon" />
+  <component name="RunManager" selected="Application.GreedyAlgorithms">
+    <configuration name="GreedyAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.algorithms.lesson12.GreedyAlgorithms" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telran.algorithms.lesson10.*" />
+          <option name="PATTERN" value="de.telran.algorithms.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.algorithms.lesson1.Task1" />
+    <configuration name="LessonPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.algorithms.lesson5.LessonPractice" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telran.algorithms.lesson1.*" />
+          <option name="PATTERN" value="de.telran.algorithms.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,18 +169,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreedyAlgorithms" />
+        <item itemvalue="Application.LessonPractice" />
         <item itemvalue="Application.de.telran.algorithms.lesson11.Main" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.LinkedWagon" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
       </set>
     </attachedChunks>
   </component>
@@ -186,8 +192,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701768760852</updated>
+      <workItem from="1709631140096" duration="2745000" />
+      <workItem from="1709675281892" duration="1194000" />
+      <workItem from="1709678514947" duration="598000" />
+      <workItem from="1709741760183" duration="1728000" />
+      <workItem from="1710853562765" duration="7731000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
